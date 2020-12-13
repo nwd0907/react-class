@@ -1,0 +1,29 @@
+.root {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    border: 2px solid black;
+    padding: 50px;
+}
+
+.title {
+    text-align: center;
+    vertical-align: center;
+}
+
+.inputbox {
+    margin-bottom: 10px;
+}
+
+.buttonwrapper {
+    text-align: center;
+    margin-top: 15px;
+}
