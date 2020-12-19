@@ -2,6 +2,9 @@ import Head from 'next/head'
 import styles from '../styles/Notice.module.css'
 
 export default function Home() {
+
+
+
   return (
     <div className={styles.root}>
       <div className={styles.container}>
